@@ -1,0 +1,3 @@
+/home/rmsu/RGBrange/build/CMakeFiles/rebuild_cache.dir
+/home/rmsu/RGBrange/build/CMakeFiles/edit_cache.dir
+/home/rmsu/RGBrange/build/CMakeFiles/RGBrange.dir
