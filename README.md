@@ -1,1 +1,1 @@
-# Inrange-to-Gamut-segmentation
+# RGBrange
